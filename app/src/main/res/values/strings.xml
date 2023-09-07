@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">kwesijames</string>
+    <string name="loginPrompt">Log In!</string>
+    <string name="passwordPrompt">Password...</string>
+    <string name="usernamePrompt">Username...</string>
+    <string name="loginButton">Login</string>
+    <string name="regPrompt">Dont have an account? Register here!</string>
+    <string name="firstnamePrompt">Firstname...</string>
+    <string name="lastnamePrompt">Lastname...</string>
+    <string name="register">Register Now!</string>
+    <string name="regButton">Register!</string>
+    <string name="backToLogin">Already have an account? Log in here!</string>
+    <string name="regErrormsg">Sorry! All fields are required to register!</string>
+    <string name="loginFieldsError">All fields required!</string>
+    <string name="loginWelcome">Welcome </string>
+    <string name="loginInputError">Username or Password incorrect! Try again</string>
+    <string name="navHome">Home</string>
+    <string name="navProfile">Profile</string>
+    <string name="navCart">Cart</string>
+    <string name="newItemsIndex">POPULAR ITEMS!</string>
+    <string name="profUsername">Username</string>
+    <string name="profFirstname">Firstname</string>
+    <string name="profLastname">Lastname</string>
+    <string name="profPassword">Password</string>
+    <string name="profUpdate">Update</string>
+    <string name="Popularly_viewed">Popularly viewed:</string>
+    <string name="addToCart">Add to Cart</string>
+    <string name="logout">Logout</string>
+    <string name="navProducts">Products</string>
+    <string name="navCategories">Categories</string>
+    <string name="prodName">Product Name</string>
+    <string name="prodPrice">Product Price</string>
+    <string name="prodDesc">Product Description</string>
+    <string name="prodListPrice">Product List Price</string>
+    <string name="prodRetailPrice">Product Retail Price</string>
+    <string name="prodCategory">Product Categroy</string>
+</resources>

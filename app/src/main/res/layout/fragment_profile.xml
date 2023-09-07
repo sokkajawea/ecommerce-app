@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileFrag"
+    android:background="#bababa">
+
+
+<!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+
+        <TextView
+            android:id="@+id/txvProfUsername"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/profUsername" />
+
+        <EditText
+            android:id="@+id/edtProfUsername"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:text="Name" />
+
+        <TextView
+            android:id="@+id/txvProfFirstname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/profFirstname" />
+
+        <EditText
+            android:id="@+id/edtProfFirstname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:text="Name" />
+
+        <TextView
+            android:id="@+id/txvProfLastname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/profLastname" />
+
+        <EditText
+            android:id="@+id/edtProfLastname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:text="Name" />
+
+        <TextView
+            android:id="@+id/txvProfPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/profPassword" />
+
+        <EditText
+            android:id="@+id/edtProfPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:text="Name" />
+
+        <Button
+            android:id="@+id/btnUpdateInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/profUpdate" />
+
+    </LinearLayout>
+
+
+
+</FrameLayout>

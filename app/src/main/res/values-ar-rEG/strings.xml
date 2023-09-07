@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loginPrompt">تسجيل الدخول!</string>
+    <string name="usernamePrompt">اسم المستخدم...</string>
+    <string name="passwordPrompt">كلمة السر...</string>
+    <string name="loginButton">تسجيل الدخول</string>
+    <string name="regPrompt">ليس لديك حساب؟ سجل هنا!</string>
+    <string name="firstnamePrompt">اسم الأول...</string>
+    <string name="lastnamePrompt">اسم العائلة...</string>
+    <string name="register">سجل الآن!</string>
+    <string name="regButton">سجل!</string>
+    <string name="backToLogin">هل لديك حساب؟ سجيل دخولك هنا!</string>
+    <string name="regErrormsg">عفواً! كل المدخلات مطلوبة!</string>
+    <string name="loginFieldsError">عفواً! كل المدخلات مطلوبة!</string>
+    <string name="loginWelcome">مرحبا </string>
+    <string name="loginInputError">اسم المستخدم او كلمة السر غير صحيح! حاول مرة أخرى</string>
+    <string name="navHome">الصفحة الرئيسية</string>
+    <string name="navProfile">حسابك</string>
+    <string name="navCart">السلة</string>
+    <string name="newItemsIndex">العناصر الشعبية!</string>
+    <string name="profUsername">اسم المستخدم</string>
+    <string name="profFirstname">اسم الأول</string>
+    <string name="profLastname">اسم العائلة</string>
+    <string name="profPassword">كلمة السر</string>
+    <string name="profUpdate">تحديث</string>
+    <string name="Popularly_viewed">الفئات الشعبية:</string>
+    <string name="addToCart">أضف إلى السلة</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="navProducts">منتجات</string>
+    <string name="navCategories">فئات</string>
+    <string name="prodName">اسم المنتج</string>
+    <string name="prodPrice">سعر المنتج</string>
+    <string name="prodDesc">وصف المنتج</string>
+    <string name="prodListPrice">قائمة أسعار المنتجات</string>
+    <string name="prodRetailPrice">سعر التجزئة للمنتج</string>
+    <string name="prodCategory">فئة المنتج</string>
+</resources>
